@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://files.catbox.moe/jarwwb.mp4" width="400"/>
+  <video    src="https://files.catbox.moe/jarwwb.mp4" width="400"/>
 </h1>
 <!-- Heading -->
 <h1 align="center">
