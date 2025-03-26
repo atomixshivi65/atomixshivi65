@@ -1,6 +1,8 @@
 <!-- Heading -->
-<h1 align="center">Hey 👋, I'm 𝑨𝒕𝒐𝒎𝒊𝒙 // श्री 🌾 </h1>
-<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [Your Country]!</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=𝑨𝒕𝒐𝒎𝒊𝒙+%2F%2F+श्री+🌾;Full-Stack+Developer;Open-Source+Contributor;Tech+Lover+🚀" alt="Typing SVG" />
+</h1>
+<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [UP]!</h3>
 
 <!-- Profile Views & Followers -->
 <p align="center">
