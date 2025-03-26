@@ -1,6 +1,3 @@
-<h1 align="center">
-  <video    src="https://files.catbox.moe/jarwwb.mp4" width="400"/>
-</h1>
 <!-- Heading -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=𝑨𝒕𝒐𝒎𝒊𝒙+%2F%2F+श्री+🌾;Full-Stack+Developer;Open-Source+Contributor;Tech+Lover+🚀" alt="Typing SVG" />
