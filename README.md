@@ -1,12 +1,12 @@
+<h1 align="center">
+  <img src="https://files.catbox.moe/jarwwb.mp4" width="400"/>
+</h1>
 <!-- Heading -->
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=𝑨𝒕𝒐𝒎𝒊𝒙+%2F%2F+श्री+🌾;Full-Stack+Developer;Open-Source+Contributor;Tech+Lover+🚀" alt="Typing SVG" />
 </h1>
 <h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [UP]!</h3>
 
-<h1 align="center">
-  <img src="https://files.catbox.moe/jarwwb.mp4/welcome.gif" width="400"/>
-</h1>
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atomixshivi65&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
