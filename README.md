@@ -4,6 +4,9 @@
 </h1>
 <h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [UP]!</h3>
 
+<h1 align="center">
+  <img src="https://files.catbox.moe/jarwwb.mp4/welcome.gif" width="400"/>
+</h1>
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atomixshivi65&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
